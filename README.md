@@ -8,6 +8,8 @@ Welcome! This guide will turn your no-code generated application to a stable sol
 
 You built an app with Lovable, but "vibe coding" is only half the battle. To run a real business, you need a professional way to deliver updates without breaking your live site.
 
+![image](<assets/n8n automated pipeline deploy workflow.png>)
+
 **This pipeline turns your Lovable project into a production-grade software application.**
 
 - **🛡️ Stop Breaking Production:** Your changes land on a "Test Site" first. This pipeline only moves them to your "Live Site" when you approve.
@@ -93,6 +95,8 @@ You built an app with Lovable, but "vibe coding" is only half the battle. To run
 *Your bot needs permission to talk to your tools. We will create 4 keys.*
 
 In n8n, on Home page click the **"Credentials"** tab next to Workflows. 
+
+![image](assets/variables_list.jpeg)
 
 Create these four new credentials:
 
