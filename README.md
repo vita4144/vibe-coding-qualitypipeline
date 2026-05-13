@@ -164,6 +164,7 @@ Locate the nodes named **"GitHub Diff"** and **"HTTP Request"** on the canvas. D
 **2. Update Database Link**
 Locate the node named **"Check RLS"**.
 • **Action:** Paste your **Supabase Project URL** into the URL field.
+The URL should be your endpoint to check RLS status, example: https://your_project.supabase.co/functions/v1/check-rls-status
 ****
 
 **3. Set Your Chat ID**
