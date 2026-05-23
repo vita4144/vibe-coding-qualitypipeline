@@ -12,6 +12,8 @@ You built an app with Lovable, but "vibe coding" is only half the battle. To run
 
 **This pipeline turns your Lovable project into a production-grade software application.**
 
+[![Watch Demo Video of this Pipeline in Ation!](assets/video_thumb.jpeg)](https://vimeo.com/1195036796?share=copy&fl=sv&fe=ci)
+
 - **🛡️ Stop Breaking Production:** Your changes land on a "Test Site" first. This pipeline only moves them to your "Live Site" when you approve.
 - **🧠 AI-Powered Release Notes:** No more guessing "what changed?" Our AI reads your code and writes a clear, non-technical summary for you and your stakeholders.
 - **📱 Your Chat is Your Cockpit:** Forget logging into Vercel, GitHub, or Supabase. Check security, review changes, and deploy updates directly from Telegram.
